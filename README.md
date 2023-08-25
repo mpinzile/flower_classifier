@@ -12,7 +12,7 @@ Before running the code, make sure you have the necessary libraries installed. Y
 
 ```bash
 pip install tensorflow numpy
-
+```
 
 ## Project Overview
 
@@ -34,7 +34,7 @@ The flower classifier project comprises the following main steps:
 ```bash
 git clone <repository-url>
 cd <repository-directory>
-
+```
 
 2. Run the provided code in a Python environment. Make sure to adjust the paths and hyperparameters according to your setup.
 3. After running the code, the trained model will be saved as flower_classifier_model.h5.
